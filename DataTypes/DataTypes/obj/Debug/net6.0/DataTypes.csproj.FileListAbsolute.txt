@@ -1,0 +1,15 @@
+C:\Users\Fábio\Documents\Aulas C#\DataTypes\DataTypes\bin\Debug\net6.0\DataTypes.exe
+C:\Users\Fábio\Documents\Aulas C#\DataTypes\DataTypes\bin\Debug\net6.0\DataTypes.deps.json
+C:\Users\Fábio\Documents\Aulas C#\DataTypes\DataTypes\bin\Debug\net6.0\DataTypes.runtimeconfig.json
+C:\Users\Fábio\Documents\Aulas C#\DataTypes\DataTypes\bin\Debug\net6.0\DataTypes.dll
+C:\Users\Fábio\Documents\Aulas C#\DataTypes\DataTypes\bin\Debug\net6.0\DataTypes.pdb
+C:\Users\Fábio\Documents\Aulas C#\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.csproj.AssemblyReference.cache
+C:\Users\Fábio\Documents\Aulas C#\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio\Documents\Aulas C#\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfo.cs
+C:\Users\Fábio\Documents\Aulas C#\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.dll
+C:\Users\Fábio\Documents\Aulas C#\DataTypes\DataTypes\obj\Debug\net6.0\refint\DataTypes.dll
+C:\Users\Fábio\Documents\Aulas C#\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.pdb
+C:\Users\Fábio\Documents\Aulas C#\DataTypes\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
+C:\Users\Fábio\Documents\Aulas C#\DataTypes\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll
