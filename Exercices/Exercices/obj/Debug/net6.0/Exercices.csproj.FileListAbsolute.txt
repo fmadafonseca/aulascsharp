@@ -1,0 +1,15 @@
+C:\Users\Fábio\Documents\Aulas C#\Exercices\Exercices\bin\Debug\net6.0\Exercices.exe
+C:\Users\Fábio\Documents\Aulas C#\Exercices\Exercices\bin\Debug\net6.0\Exercices.deps.json
+C:\Users\Fábio\Documents\Aulas C#\Exercices\Exercices\bin\Debug\net6.0\Exercices.runtimeconfig.json
+C:\Users\Fábio\Documents\Aulas C#\Exercices\Exercices\bin\Debug\net6.0\Exercices.dll
+C:\Users\Fábio\Documents\Aulas C#\Exercices\Exercices\bin\Debug\net6.0\Exercices.pdb
+C:\Users\Fábio\Documents\Aulas C#\Exercices\Exercices\obj\Debug\net6.0\Exercices.csproj.AssemblyReference.cache
+C:\Users\Fábio\Documents\Aulas C#\Exercices\Exercices\obj\Debug\net6.0\Exercices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio\Documents\Aulas C#\Exercices\Exercices\obj\Debug\net6.0\Exercices.AssemblyInfoInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\Exercices\Exercices\obj\Debug\net6.0\Exercices.AssemblyInfo.cs
+C:\Users\Fábio\Documents\Aulas C#\Exercices\Exercices\obj\Debug\net6.0\Exercices.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\Exercices\Exercices\obj\Debug\net6.0\Exercices.dll
+C:\Users\Fábio\Documents\Aulas C#\Exercices\Exercices\obj\Debug\net6.0\refint\Exercices.dll
+C:\Users\Fábio\Documents\Aulas C#\Exercices\Exercices\obj\Debug\net6.0\Exercices.pdb
+C:\Users\Fábio\Documents\Aulas C#\Exercices\Exercices\obj\Debug\net6.0\Exercices.genruntimeconfig.cache
+C:\Users\Fábio\Documents\Aulas C#\Exercices\Exercices\obj\Debug\net6.0\ref\Exercices.dll
