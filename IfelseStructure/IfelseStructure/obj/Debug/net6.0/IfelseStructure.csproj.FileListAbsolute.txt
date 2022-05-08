@@ -1,0 +1,15 @@
+C:\Users\Fábio\Documents\Aulas C#\IfelseStructure\IfelseStructure\bin\Debug\net6.0\IfelseStructure.exe
+C:\Users\Fábio\Documents\Aulas C#\IfelseStructure\IfelseStructure\bin\Debug\net6.0\IfelseStructure.deps.json
+C:\Users\Fábio\Documents\Aulas C#\IfelseStructure\IfelseStructure\bin\Debug\net6.0\IfelseStructure.runtimeconfig.json
+C:\Users\Fábio\Documents\Aulas C#\IfelseStructure\IfelseStructure\bin\Debug\net6.0\IfelseStructure.dll
+C:\Users\Fábio\Documents\Aulas C#\IfelseStructure\IfelseStructure\bin\Debug\net6.0\IfelseStructure.pdb
+C:\Users\Fábio\Documents\Aulas C#\IfelseStructure\IfelseStructure\obj\Debug\net6.0\IfelseStructure.csproj.AssemblyReference.cache
+C:\Users\Fábio\Documents\Aulas C#\IfelseStructure\IfelseStructure\obj\Debug\net6.0\IfelseStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio\Documents\Aulas C#\IfelseStructure\IfelseStructure\obj\Debug\net6.0\IfelseStructure.AssemblyInfoInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\IfelseStructure\IfelseStructure\obj\Debug\net6.0\IfelseStructure.AssemblyInfo.cs
+C:\Users\Fábio\Documents\Aulas C#\IfelseStructure\IfelseStructure\obj\Debug\net6.0\IfelseStructure.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\IfelseStructure\IfelseStructure\obj\Debug\net6.0\IfelseStructure.dll
+C:\Users\Fábio\Documents\Aulas C#\IfelseStructure\IfelseStructure\obj\Debug\net6.0\refint\IfelseStructure.dll
+C:\Users\Fábio\Documents\Aulas C#\IfelseStructure\IfelseStructure\obj\Debug\net6.0\IfelseStructure.pdb
+C:\Users\Fábio\Documents\Aulas C#\IfelseStructure\IfelseStructure\obj\Debug\net6.0\IfelseStructure.genruntimeconfig.cache
+C:\Users\Fábio\Documents\Aulas C#\IfelseStructure\IfelseStructure\obj\Debug\net6.0\ref\IfelseStructure.dll
