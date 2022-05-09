@@ -1,0 +1,15 @@
+C:\Users\Fábio\Documents\Aulas C#\aulaFuncao\aulaFuncao\bin\Debug\net6.0\aulaFuncao.exe
+C:\Users\Fábio\Documents\Aulas C#\aulaFuncao\aulaFuncao\bin\Debug\net6.0\aulaFuncao.deps.json
+C:\Users\Fábio\Documents\Aulas C#\aulaFuncao\aulaFuncao\bin\Debug\net6.0\aulaFuncao.runtimeconfig.json
+C:\Users\Fábio\Documents\Aulas C#\aulaFuncao\aulaFuncao\bin\Debug\net6.0\aulaFuncao.dll
+C:\Users\Fábio\Documents\Aulas C#\aulaFuncao\aulaFuncao\bin\Debug\net6.0\aulaFuncao.pdb
+C:\Users\Fábio\Documents\Aulas C#\aulaFuncao\aulaFuncao\obj\Debug\net6.0\aulaFuncao.csproj.AssemblyReference.cache
+C:\Users\Fábio\Documents\Aulas C#\aulaFuncao\aulaFuncao\obj\Debug\net6.0\aulaFuncao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio\Documents\Aulas C#\aulaFuncao\aulaFuncao\obj\Debug\net6.0\aulaFuncao.AssemblyInfoInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\aulaFuncao\aulaFuncao\obj\Debug\net6.0\aulaFuncao.AssemblyInfo.cs
+C:\Users\Fábio\Documents\Aulas C#\aulaFuncao\aulaFuncao\obj\Debug\net6.0\aulaFuncao.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\aulaFuncao\aulaFuncao\obj\Debug\net6.0\aulaFuncao.dll
+C:\Users\Fábio\Documents\Aulas C#\aulaFuncao\aulaFuncao\obj\Debug\net6.0\refint\aulaFuncao.dll
+C:\Users\Fábio\Documents\Aulas C#\aulaFuncao\aulaFuncao\obj\Debug\net6.0\aulaFuncao.pdb
+C:\Users\Fábio\Documents\Aulas C#\aulaFuncao\aulaFuncao\obj\Debug\net6.0\aulaFuncao.genruntimeconfig.cache
+C:\Users\Fábio\Documents\Aulas C#\aulaFuncao\aulaFuncao\obj\Debug\net6.0\ref\aulaFuncao.dll
