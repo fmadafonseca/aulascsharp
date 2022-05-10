@@ -1,0 +1,15 @@
+C:\Users\Fábio\Documents\Aulas C#\estruturaWhile\estruturaWhile\bin\Debug\net6.0\estruturaWhile.exe
+C:\Users\Fábio\Documents\Aulas C#\estruturaWhile\estruturaWhile\bin\Debug\net6.0\estruturaWhile.deps.json
+C:\Users\Fábio\Documents\Aulas C#\estruturaWhile\estruturaWhile\bin\Debug\net6.0\estruturaWhile.runtimeconfig.json
+C:\Users\Fábio\Documents\Aulas C#\estruturaWhile\estruturaWhile\bin\Debug\net6.0\estruturaWhile.dll
+C:\Users\Fábio\Documents\Aulas C#\estruturaWhile\estruturaWhile\bin\Debug\net6.0\estruturaWhile.pdb
+C:\Users\Fábio\Documents\Aulas C#\estruturaWhile\estruturaWhile\obj\Debug\net6.0\estruturaWhile.csproj.AssemblyReference.cache
+C:\Users\Fábio\Documents\Aulas C#\estruturaWhile\estruturaWhile\obj\Debug\net6.0\estruturaWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio\Documents\Aulas C#\estruturaWhile\estruturaWhile\obj\Debug\net6.0\estruturaWhile.AssemblyInfoInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\estruturaWhile\estruturaWhile\obj\Debug\net6.0\estruturaWhile.AssemblyInfo.cs
+C:\Users\Fábio\Documents\Aulas C#\estruturaWhile\estruturaWhile\obj\Debug\net6.0\estruturaWhile.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\estruturaWhile\estruturaWhile\obj\Debug\net6.0\estruturaWhile.dll
+C:\Users\Fábio\Documents\Aulas C#\estruturaWhile\estruturaWhile\obj\Debug\net6.0\refint\estruturaWhile.dll
+C:\Users\Fábio\Documents\Aulas C#\estruturaWhile\estruturaWhile\obj\Debug\net6.0\estruturaWhile.pdb
+C:\Users\Fábio\Documents\Aulas C#\estruturaWhile\estruturaWhile\obj\Debug\net6.0\estruturaWhile.genruntimeconfig.cache
+C:\Users\Fábio\Documents\Aulas C#\estruturaWhile\estruturaWhile\obj\Debug\net6.0\ref\estruturaWhile.dll
