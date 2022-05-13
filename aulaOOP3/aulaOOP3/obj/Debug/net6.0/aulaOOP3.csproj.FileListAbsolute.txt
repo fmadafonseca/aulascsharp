@@ -1,0 +1,15 @@
+C:\Users\Fábio\Documents\Aulas C#\aulaOOP3\aulaOOP3\bin\Debug\net6.0\aulaOOP3.exe
+C:\Users\Fábio\Documents\Aulas C#\aulaOOP3\aulaOOP3\bin\Debug\net6.0\aulaOOP3.deps.json
+C:\Users\Fábio\Documents\Aulas C#\aulaOOP3\aulaOOP3\bin\Debug\net6.0\aulaOOP3.runtimeconfig.json
+C:\Users\Fábio\Documents\Aulas C#\aulaOOP3\aulaOOP3\bin\Debug\net6.0\aulaOOP3.dll
+C:\Users\Fábio\Documents\Aulas C#\aulaOOP3\aulaOOP3\bin\Debug\net6.0\aulaOOP3.pdb
+C:\Users\Fábio\Documents\Aulas C#\aulaOOP3\aulaOOP3\obj\Debug\net6.0\aulaOOP3.csproj.AssemblyReference.cache
+C:\Users\Fábio\Documents\Aulas C#\aulaOOP3\aulaOOP3\obj\Debug\net6.0\aulaOOP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio\Documents\Aulas C#\aulaOOP3\aulaOOP3\obj\Debug\net6.0\aulaOOP3.AssemblyInfoInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\aulaOOP3\aulaOOP3\obj\Debug\net6.0\aulaOOP3.AssemblyInfo.cs
+C:\Users\Fábio\Documents\Aulas C#\aulaOOP3\aulaOOP3\obj\Debug\net6.0\aulaOOP3.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\aulaOOP3\aulaOOP3\obj\Debug\net6.0\aulaOOP3.dll
+C:\Users\Fábio\Documents\Aulas C#\aulaOOP3\aulaOOP3\obj\Debug\net6.0\refint\aulaOOP3.dll
+C:\Users\Fábio\Documents\Aulas C#\aulaOOP3\aulaOOP3\obj\Debug\net6.0\aulaOOP3.pdb
+C:\Users\Fábio\Documents\Aulas C#\aulaOOP3\aulaOOP3\obj\Debug\net6.0\aulaOOP3.genruntimeconfig.cache
+C:\Users\Fábio\Documents\Aulas C#\aulaOOP3\aulaOOP3\obj\Debug\net6.0\ref\aulaOOP3.dll
