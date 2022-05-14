@@ -1,0 +1,15 @@
+C:\Users\Fábio\Documents\Aulas C#\ExercicioPOOClasses3\ExercicioPOOClasses3\bin\Debug\net6.0\ExercicioPOOClasses3.exe
+C:\Users\Fábio\Documents\Aulas C#\ExercicioPOOClasses3\ExercicioPOOClasses3\bin\Debug\net6.0\ExercicioPOOClasses3.deps.json
+C:\Users\Fábio\Documents\Aulas C#\ExercicioPOOClasses3\ExercicioPOOClasses3\bin\Debug\net6.0\ExercicioPOOClasses3.runtimeconfig.json
+C:\Users\Fábio\Documents\Aulas C#\ExercicioPOOClasses3\ExercicioPOOClasses3\bin\Debug\net6.0\ExercicioPOOClasses3.dll
+C:\Users\Fábio\Documents\Aulas C#\ExercicioPOOClasses3\ExercicioPOOClasses3\bin\Debug\net6.0\ExercicioPOOClasses3.pdb
+C:\Users\Fábio\Documents\Aulas C#\ExercicioPOOClasses3\ExercicioPOOClasses3\obj\Debug\net6.0\ExercicioPOOClasses3.csproj.AssemblyReference.cache
+C:\Users\Fábio\Documents\Aulas C#\ExercicioPOOClasses3\ExercicioPOOClasses3\obj\Debug\net6.0\ExercicioPOOClasses3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio\Documents\Aulas C#\ExercicioPOOClasses3\ExercicioPOOClasses3\obj\Debug\net6.0\ExercicioPOOClasses3.AssemblyInfoInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\ExercicioPOOClasses3\ExercicioPOOClasses3\obj\Debug\net6.0\ExercicioPOOClasses3.AssemblyInfo.cs
+C:\Users\Fábio\Documents\Aulas C#\ExercicioPOOClasses3\ExercicioPOOClasses3\obj\Debug\net6.0\ExercicioPOOClasses3.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\ExercicioPOOClasses3\ExercicioPOOClasses3\obj\Debug\net6.0\ExercicioPOOClasses3.dll
+C:\Users\Fábio\Documents\Aulas C#\ExercicioPOOClasses3\ExercicioPOOClasses3\obj\Debug\net6.0\refint\ExercicioPOOClasses3.dll
+C:\Users\Fábio\Documents\Aulas C#\ExercicioPOOClasses3\ExercicioPOOClasses3\obj\Debug\net6.0\ExercicioPOOClasses3.pdb
+C:\Users\Fábio\Documents\Aulas C#\ExercicioPOOClasses3\ExercicioPOOClasses3\obj\Debug\net6.0\ExercicioPOOClasses3.genruntimeconfig.cache
+C:\Users\Fábio\Documents\Aulas C#\ExercicioPOOClasses3\ExercicioPOOClasses3\obj\Debug\net6.0\ref\ExercicioPOOClasses3.dll
