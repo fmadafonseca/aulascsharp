@@ -1,0 +1,15 @@
+C:\Users\Fábio\Documents\Aulas C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net6.0\ExercicioMembrosEstaticos.exe
+C:\Users\Fábio\Documents\Aulas C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net6.0\ExercicioMembrosEstaticos.deps.json
+C:\Users\Fábio\Documents\Aulas C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net6.0\ExercicioMembrosEstaticos.runtimeconfig.json
+C:\Users\Fábio\Documents\Aulas C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net6.0\ExercicioMembrosEstaticos.dll
+C:\Users\Fábio\Documents\Aulas C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\bin\Debug\net6.0\ExercicioMembrosEstaticos.pdb
+C:\Users\Fábio\Documents\Aulas C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net6.0\ExercicioMembrosEstaticos.csproj.AssemblyReference.cache
+C:\Users\Fábio\Documents\Aulas C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net6.0\ExercicioMembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio\Documents\Aulas C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net6.0\ExercicioMembrosEstaticos.AssemblyInfoInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net6.0\ExercicioMembrosEstaticos.AssemblyInfo.cs
+C:\Users\Fábio\Documents\Aulas C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net6.0\ExercicioMembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net6.0\ExercicioMembrosEstaticos.dll
+C:\Users\Fábio\Documents\Aulas C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net6.0\refint\ExercicioMembrosEstaticos.dll
+C:\Users\Fábio\Documents\Aulas C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net6.0\ExercicioMembrosEstaticos.pdb
+C:\Users\Fábio\Documents\Aulas C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net6.0\ExercicioMembrosEstaticos.genruntimeconfig.cache
+C:\Users\Fábio\Documents\Aulas C#\ExercicioMembrosEstaticos\ExercicioMembrosEstaticos\obj\Debug\net6.0\ref\ExercicioMembrosEstaticos.dll
