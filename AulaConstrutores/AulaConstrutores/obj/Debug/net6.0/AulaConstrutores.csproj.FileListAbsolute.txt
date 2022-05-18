@@ -1,0 +1,15 @@
+C:\Users\Fábio\Documents\Aulas C#\AulaConstrutores\AulaConstrutores\bin\Debug\net6.0\AulaConstrutores.exe
+C:\Users\Fábio\Documents\Aulas C#\AulaConstrutores\AulaConstrutores\bin\Debug\net6.0\AulaConstrutores.deps.json
+C:\Users\Fábio\Documents\Aulas C#\AulaConstrutores\AulaConstrutores\bin\Debug\net6.0\AulaConstrutores.runtimeconfig.json
+C:\Users\Fábio\Documents\Aulas C#\AulaConstrutores\AulaConstrutores\bin\Debug\net6.0\AulaConstrutores.dll
+C:\Users\Fábio\Documents\Aulas C#\AulaConstrutores\AulaConstrutores\bin\Debug\net6.0\AulaConstrutores.pdb
+C:\Users\Fábio\Documents\Aulas C#\AulaConstrutores\AulaConstrutores\obj\Debug\net6.0\AulaConstrutores.csproj.AssemblyReference.cache
+C:\Users\Fábio\Documents\Aulas C#\AulaConstrutores\AulaConstrutores\obj\Debug\net6.0\AulaConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio\Documents\Aulas C#\AulaConstrutores\AulaConstrutores\obj\Debug\net6.0\AulaConstrutores.AssemblyInfoInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\AulaConstrutores\AulaConstrutores\obj\Debug\net6.0\AulaConstrutores.AssemblyInfo.cs
+C:\Users\Fábio\Documents\Aulas C#\AulaConstrutores\AulaConstrutores\obj\Debug\net6.0\AulaConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\AulaConstrutores\AulaConstrutores\obj\Debug\net6.0\AulaConstrutores.dll
+C:\Users\Fábio\Documents\Aulas C#\AulaConstrutores\AulaConstrutores\obj\Debug\net6.0\refint\AulaConstrutores.dll
+C:\Users\Fábio\Documents\Aulas C#\AulaConstrutores\AulaConstrutores\obj\Debug\net6.0\AulaConstrutores.pdb
+C:\Users\Fábio\Documents\Aulas C#\AulaConstrutores\AulaConstrutores\obj\Debug\net6.0\AulaConstrutores.genruntimeconfig.cache
+C:\Users\Fábio\Documents\Aulas C#\AulaConstrutores\AulaConstrutores\obj\Debug\net6.0\ref\AulaConstrutores.dll
