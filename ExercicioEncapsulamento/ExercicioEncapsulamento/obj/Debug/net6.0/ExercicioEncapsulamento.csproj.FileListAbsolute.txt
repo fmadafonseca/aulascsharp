@@ -1,0 +1,15 @@
+C:\Users\Fábio\Documents\Aulas C#\ExercicioEncapsulamento\ExercicioEncapsulamento\bin\Debug\net6.0\ExercicioEncapsulamento.exe
+C:\Users\Fábio\Documents\Aulas C#\ExercicioEncapsulamento\ExercicioEncapsulamento\bin\Debug\net6.0\ExercicioEncapsulamento.deps.json
+C:\Users\Fábio\Documents\Aulas C#\ExercicioEncapsulamento\ExercicioEncapsulamento\bin\Debug\net6.0\ExercicioEncapsulamento.runtimeconfig.json
+C:\Users\Fábio\Documents\Aulas C#\ExercicioEncapsulamento\ExercicioEncapsulamento\bin\Debug\net6.0\ExercicioEncapsulamento.dll
+C:\Users\Fábio\Documents\Aulas C#\ExercicioEncapsulamento\ExercicioEncapsulamento\bin\Debug\net6.0\ExercicioEncapsulamento.pdb
+C:\Users\Fábio\Documents\Aulas C#\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.csproj.AssemblyReference.cache
+C:\Users\Fábio\Documents\Aulas C#\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fábio\Documents\Aulas C#\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.AssemblyInfo.cs
+C:\Users\Fábio\Documents\Aulas C#\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Fábio\Documents\Aulas C#\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.dll
+C:\Users\Fábio\Documents\Aulas C#\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\net6.0\refint\ExercicioEncapsulamento.dll
+C:\Users\Fábio\Documents\Aulas C#\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.pdb
+C:\Users\Fábio\Documents\Aulas C#\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\net6.0\ExercicioEncapsulamento.genruntimeconfig.cache
+C:\Users\Fábio\Documents\Aulas C#\ExercicioEncapsulamento\ExercicioEncapsulamento\obj\Debug\net6.0\ref\ExercicioEncapsulamento.dll
